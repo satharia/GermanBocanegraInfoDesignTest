@@ -1,0 +1,6 @@
+@GermanBocanegra.Test.Infodesign.API_HostAddress = http://localhost:5146
+
+GET {{GermanBocanegra.Test.Infodesign.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
